@@ -13,10 +13,44 @@ body {
 }
 
 #nav {
-  background-color: #f72210 !important;
+  background: url(images/logo.svg) no-repeat center #f72210 !important;
+  background-size: 36% !important;
 }
 
 .nav-link {
   font-weight: bold;
   color: #000;
+}
+
+.footer {
+  max-width: 94%;
+  margin: auto;
+}
+
+.img-logo {
+  width: 22%;
+}
+
+.fab {
+  margin-right: 16px;
+  font-size: 25px;
+}
+
+.fab:hover {
+  color: rgb(50, 50, 226);
+  cursor: pointer;
+}
+
+.ft-ul {
+  list-style: none;
+}
+
+.ft-ul > li::after {
+  content: "|";
+  padding: 5px;
+}
+
+.ft-ul > li:last-child::after {
+  content: "";
+  padding: 5px;
 }
