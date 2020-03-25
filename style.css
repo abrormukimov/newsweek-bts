@@ -95,6 +95,16 @@ h6 {
   text-align: center;
 }
 
+.deb-st {
+  border-top: 4px solid rgb(216, 56, 168);
+  border-bottom: 1px solid black;
+}
+
+.deb-sq {
+  width: 6em;
+  height: 6em;
+}
+
 .br-sol-t {
   border-top: 4px solid rgb(70, 72, 194);
   border-bottom: 1px solid black;
