@@ -141,10 +141,12 @@ h6 {
 @media screen and (max-width: 767px) {
   .align-self-center.position-absolute {
     left: 200px;
+    right: 600px;
   }
 
   .align-self-center.position-absolute.second {
     left: 280px;
+    right: 680px;
   }
 
   .media-body.txt {
@@ -176,5 +178,15 @@ h6 {
 @media screen and (max-width: 576px) {
   .climate {
     display: none;
+  }
+
+  .align-self-center.position-absolute {
+    left: 100px;
+    right: 100px;
+  }
+
+  .align-self-center.position-absolute.second {
+    left: 180px;
+    right: 180px;
   }
 }
