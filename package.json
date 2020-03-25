@@ -1,0 +1,22 @@
+{
+  "name": "newsweek-bts",
+  "version": "1.0.0",
+  "description": "> The nextweb homepage clone",
+  "main": "stylelint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrormukimov/newsweek-bts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrormukimov/newsweek-bts/issues"
+  },
+  "homepage": "https://github.com/abrormukimov/newsweek-bts#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
