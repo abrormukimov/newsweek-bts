@@ -15,7 +15,7 @@ Clone of the homepage on newsweek.com
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/abrormukimov/newsweek-bts/89a1fc7b5d007f79db5cc6c8081275719ef28f46/index.html)
+[Live Demo Link](https://rawcdn.githack.com/abrormukimov/newsweek-bts/5cf73ff2e3f51c3892a89f75b3ab532879038dab/index.html)
 
 ## Getting Started
 
